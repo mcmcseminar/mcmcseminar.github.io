@@ -1,9 +1,9 @@
 ---
 layout: default
 title: home
-permalink: /home
+permalink: /
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 # Mathematical and Computational Modeling of Cancer Seminar
