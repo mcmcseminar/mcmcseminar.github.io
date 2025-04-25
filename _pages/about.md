@@ -2,9 +2,8 @@
 layout: default
 title: about
 permalink: /about/
-subtitle: Subtitle
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 Some information about the seminar
