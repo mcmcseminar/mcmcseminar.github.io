@@ -1,8 +1,9 @@
 ---
-layout: about
+layout: default
 title: home
 permalink: /
-subtitle: Subtitle
 ---
+
+# Mathematical and Computational Modeling of Cancer Seminar
 
 This is some text
