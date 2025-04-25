@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: about
 permalink: /about/
 subtitle: Subtitle
