@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: home
 home_title: Mathematical and Computational Modeling of Cancer Seminar
 permalink: /
