@@ -4,7 +4,7 @@ title: home
 permalink: /
 ---
 
-#Mathematical and Computational Modeling of Cancer Seminar
+# Mathematical and Computational Modeling of Cancer Seminar
 
 ## Upcoming Seminars
 
