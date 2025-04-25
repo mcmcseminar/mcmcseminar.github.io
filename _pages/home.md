@@ -5,6 +5,10 @@ nav_title: home
 permalink: /
 ---
 
-# Mathematical and Computational Modeling of Cancer Seminar
+## Upcoming Seminars
 
-This is some text
+## Past Seminars
+
+<div style="border:1px solid #bbbbbb; border-radius: 2px">
+    Information about the seminar here
+</div> 
