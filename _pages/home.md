@@ -9,6 +9,3 @@ permalink: /
 
 ## Past Seminars
 
-<div style="border:1px solid #bbbbbb; border-radius: 2px">
-    Information about the seminar here
-</div> 
