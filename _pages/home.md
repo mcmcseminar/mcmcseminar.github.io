@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+nav_title: home
 permalink: /
 ---
 
