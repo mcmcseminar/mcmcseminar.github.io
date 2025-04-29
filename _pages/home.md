@@ -6,6 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-# About the MCMC Seminar
+# Mathematical and Computational Modeling of Cancer Seminar
 
-Some information about the seminar
+This is some text
