@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the MCMC Seminar
+title: about
 permalink: /about/
 nav: true
 nav_order: 1

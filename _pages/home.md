@@ -1,6 +1,7 @@
 ---
 layout: profiles
 title: Mathematical and Computational Modeling of Cancer Seminar
+nav_title: home
 permalink: /
 
 profiles:
