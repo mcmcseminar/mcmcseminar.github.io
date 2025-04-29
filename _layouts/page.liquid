@@ -10,7 +10,11 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.page_title %}
+      <h1 class="post-title">{{ page.page_title }}</h1>
+    {% else %}
+      <h1 class="post-title">{{ page.title }}</h1>
+    {% endif %}
     <p class="post-description">{{ page.description }}</p>
   </header>
 
