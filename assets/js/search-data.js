@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-mathematical-and-computational-modeling-of-cancer-seminar",
-    title: "Mathematical and Computational Modeling of Cancer Seminar",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
