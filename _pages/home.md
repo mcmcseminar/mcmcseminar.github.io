@@ -19,7 +19,7 @@ profiles:
     content: speakers/2025-05-13_AdamPalmer.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>City University of North Carolina</p>
+      <p>University of North Carolina</p>
       <a href="https://www.med.unc.edu/pharm/directory/adam-palmer-phd/">Website</a>
   - align: left
     image: speakers/RobNoble.jpg
