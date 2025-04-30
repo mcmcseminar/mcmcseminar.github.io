@@ -13,7 +13,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>City St. Georges, University of London</p>
-      <a>Website</a>
-      <p> </p>
-      <p> </p>
+      <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
+      <p><br><br></p>
 ---
