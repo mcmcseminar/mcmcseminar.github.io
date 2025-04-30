@@ -13,5 +13,19 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>City St. Georges, University of London</p>
-      <p>Website</p> 
+      <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
+  - align: left
+    image: speakers/RobNoble.jpg
+    content: speakers/2025-03-04_RobNoble.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>City St. Georges, University of London</p>
+      <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
+  - align: left
+    image: speakers/RobNoble.jpg
+    content: speakers/2025-03-04_RobNoble.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>City St. Georges, University of London</p>
+      <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
 ---
