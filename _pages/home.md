@@ -13,5 +13,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>City St. Georges, University of London</p>
-      <p>Website</p>
+      <a>Website</a>
 ---
