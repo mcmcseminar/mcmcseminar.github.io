@@ -14,5 +14,4 @@ profiles:
     more_info: >
       <p>City St. Georges, University of London</p>
       <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
-      <p><br><br></p>
 ---
