@@ -14,7 +14,7 @@ layout: page
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
-            {% capture sizes %}(max-width: 576px) 95vw, 10vw"{% endcapture %}
+            {% capture sizes %}(max-width: 576px) 10vw, 10vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
           {% if profile.more_info %}
