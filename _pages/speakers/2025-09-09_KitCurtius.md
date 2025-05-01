@@ -1,6 +1,6 @@
 ### TBA
 
-#### Kit Curtis
+#### Kit Curtius
 
 ##### (Upcoming) September 9, 2025
 

@@ -8,8 +8,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: speakers/KitCurtis.jpg
-    content: speakers/2025-09-09_KitCurtis.md
+    image: speakers/KitCurtius.jpg
+    content: speakers/2025-09-09_KitCurtius.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>University of California, San Diego</p>
