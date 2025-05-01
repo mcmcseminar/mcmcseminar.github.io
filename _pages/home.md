@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: home
-page_title: Mathematical and Computational Modeling of Cancer Seminar
+page_title: MCMC Seminar Speakers
 permalink: /
 
 profiles:
