@@ -23,7 +23,7 @@
           {% else %}
             srcset="{{ include.path | relative_url }}"
           {% endif %}
-          {% if include.sizes %}
+          {% if !include.sizes %}
             sizes="{{ include.sizes }}"
           {% else %}
             sizes="95vw"
