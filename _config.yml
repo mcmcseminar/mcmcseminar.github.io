@@ -45,6 +45,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
+footer_enabled: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
