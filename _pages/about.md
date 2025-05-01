@@ -8,7 +8,7 @@ nav_order: 1
 
 # About the MCMC Seminar
 
-Some information about the seminar (general topics covered, link to Ivana's website, how to contact the organizer, etc.)
+The MCMC Seminar is organized by [Ivana Bozic](https://www.ivanabozic.com/). Seminar website support by Rohin Gilman. Please contact Ivana with any comments or questions.
 
 ## How to Attend
 
