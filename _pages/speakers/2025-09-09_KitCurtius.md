@@ -2,7 +2,7 @@
 
 #### Kit Curtius
 
-##### September 9, 2025, 9:00 a.m. PDT
+##### September 9, 2025
 
 [Seminar Recording Link](https://www.youtube.com/live/h3rSSG5kSqU?si=mHM5RXYNirsmJO09)
 
