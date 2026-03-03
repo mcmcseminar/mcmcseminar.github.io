@@ -28,4 +28,11 @@ profiles:
     more_info: >
       <p>City St. Georges, University of London</p>
       <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
+	- align: left
+    image: speakers/KamilaNaxerova.png
+    content: speakers/2026-04-07_KamilaNaxerova.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Harvard University</p>
+      <a href="https://www.naxerova.hms.harvard.edu/">Website</a>
 ---
