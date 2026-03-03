@@ -8,6 +8,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
+    image: speakers/KamilaNaxerova.png
+    content: speakers/2026-04-07_KamilaNaxerova.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Harvard University</p>
+      <a href="https://www.naxerova.hms.harvard.edu/">Website</a>
+  - align: left
     image: speakers/KitCurtius.jpg
     content: speakers/2025-09-09_KitCurtius.md
     image_circular: false # crops the image to make it circular
@@ -28,11 +35,4 @@ profiles:
     more_info: >
       <p>City St. Georges, University of London</p>
       <a href="https://www.citystgeorges.ac.uk/about/people/academics/robert-noble">Website</a>
-	- align: left
-    image: speakers/KamilaNaxerova.png
-    content: speakers/2026-04-07_KamilaNaxerova.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Harvard University</p>
-      <a href="https://www.naxerova.hms.harvard.edu/">Website</a>
 ---
