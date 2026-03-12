@@ -9,6 +9,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: speakers/KamilaNaxerova.png
+    alt: Kamila Naxerova headshot
     content: speakers/2026-04-07_KamilaNaxerova.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -16,6 +17,7 @@ profiles:
       <a href="https://www.naxerova.hms.harvard.edu/">Website</a>
   - align: left
     image: speakers/KitCurtius.jpg
+    alt: Kit Curtius headshot
     content: speakers/2025-09-09_KitCurtius.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -23,6 +25,7 @@ profiles:
       <a href="https://profiles.ucsd.edu/kathleen.curtius">Website</a>
   - align: left
     image: speakers/AdamPalmer.avif
+    alt: Adam Palmer headshot
     content: speakers/2025-05-13_AdamPalmer.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -30,6 +33,7 @@ profiles:
       <a href="https://www.med.unc.edu/pharm/directory/adam-palmer-phd/">Website</a>
   - align: left
     image: speakers/RobNoble.jpg
+    alt: Rob Noble headshot
     content: speakers/2025-03-04_RobNoble.md
     image_circular: false # crops the image to make it circular
     more_info: >
