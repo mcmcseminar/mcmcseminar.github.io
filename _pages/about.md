@@ -12,6 +12,6 @@ The MCMC Seminar is organized by [Ivana Bozic](https://www.ivanabozic.com/). Sem
 
 ## How to Attend
 
-The MCMC Seminar will be livestreamed monthly on the [MCMC Seminar YouTube channel](https://www.youtube.com/@mcmcseminar1442). You can also visit the channel to watch previously recorded seminars. The recorded seminar will be available on YouTube once the seminar is over.
+The MCMC Seminar will be livestreamed on the [MCMC Seminar YouTube channel](https://www.youtube.com/@mcmcseminar1442). You can also visit the channel to watch previously recorded seminars. The recorded seminar will be available on YouTube once the seminar is over.
 
 To ask questions, use the Live Chat box to the right of the YouTube video.
