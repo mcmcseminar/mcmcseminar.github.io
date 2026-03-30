@@ -13,7 +13,7 @@ profiles:
     content: speakers/2026-04-07_KamilaNaxerova.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Harvard University</p>
+      <p>Harvard Medical School</p>
       <a href="https://www.naxerova.hms.harvard.edu/">Website</a>
   - align: left
     image: speakers/KitCurtius.jpg
